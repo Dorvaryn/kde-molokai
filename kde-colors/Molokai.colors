@@ -14,13 +14,13 @@ ColorAmount=0.025
 ColorEffect=2
 ContrastAmount=0.4
 ContrastEffect=2
-Enable=true
+Enable=false
 IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=18,18,18
-BackgroundNormal=18,18,18
+BackgroundAlternate=38,38,38
+BackgroundNormal=38,38,38
 DecorationFocus=25,215,255
 DecorationHover=75,175,235
 ForegroundActive=95,215,255
@@ -94,7 +94,7 @@ Name=Molokai
 shadeSortColumn=true
 
 [KDE]
-contrast=0
+contrast=7
 
 [WM]
 activeBackground=19,47,80
